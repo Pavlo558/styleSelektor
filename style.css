@@ -1,0 +1,20 @@
+h1 { 
+    color: crimson; 
+} 
+body { 
+    background-color: lightyellow; 
+} 
+p { 
+    background-color: blue; 
+} 
+h2 { 
+    color: blueviolet; 
+} 
+.text { 
+    color: darkorange; 
+    font-size: 30px; 
+    background-color: darkslategray; 
+} 
+#subtitle { 
+    color: brown; 
+}
